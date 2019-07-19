@@ -1,32 +1,30 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Apache Spark 소개
+tags: [spark]
 comments: true
 ---
+#Spark Study (1) - Apache Spark 개요
+[Apache Spark](http://spark.apache.org//)를 사용해오면서 느낀 건 Spark Application은 매우 간단한 코드로 구현이 가능하지만 Low Level에서 어떤 로직으로 동작하는지 이해하기 어려웠다.
+따라서 Spark의 기능과 내부구조를 더 정확히 공부하여 정리하고자 블로그를 시작하게 되었다.
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+## Spark란?
+Spark는 **범용 고속 분산 컴퓨팅 프레임워크**로 인메모리 데이터 프로세싱을 다양한 영역에 활용 가능하다.
 
-**Here is some bold text**
+## Spark 주요 특징
+Spark 공식 홈페이지에서 소개하는 주요 특징은 아래와 같다.
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| 주요 특징 | 설명 |
+| :---- |:--- |
+| Speed | 말 그대로 속도가 빠르다! Spark측의 주장에 따르면 Hadoop MR 대비 약 100배의 속도 향상이 있다고 한다. |
+| Ease of Use | 데이터 프로세싱에 일반적으로 사용되는 Java, Scala, Python, R, SQL등의 언어를 활용해 어플리케이션 작성이 가능하다. | 
+| Generality | SQL, 스트리밍, 머신러닝, 그래프 프로세싱 등 다양한 영역에서 활용 가능하다. 실제로 SQL과 스트리밍, 머신러닝은 활용 사례를 많이 보았으며 그래프의 경우는 아직 분야가 한정적인 듯 하다. |
+| Runs Everywhere | Spark 단독으로도 실행이 가능하나 YARN, Mesos, Kubernetes 등 다양한 환경에서 동작한다고 한다. |
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+
 
 Here's a code chunk:
 
