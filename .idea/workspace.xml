@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b5bb68-d53a-4567-8595-716630338708" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-01-rdd.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-26-spark1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-26-spark1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-01-rdd.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-01-rdd.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-26-spark1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="264">
+                <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-01-rdd.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="396">
+                <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563503103581</updated>
-      <workItem from="1563503105006" duration="3731000" />
+      <workItem from="1563503105006" duration="8235000" />
     </task>
     <task id="LOCAL-00001" summary="Update Post">
       <created>1563512421948</created>
@@ -182,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3731000" />
+    <option name="totallyTimeSpent" value="8235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -239,8 +237,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-26-spark1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
           </first_editor>
           <second_editor />
         </state>
@@ -249,8 +247,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-01-rdd.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="396">
+            <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
