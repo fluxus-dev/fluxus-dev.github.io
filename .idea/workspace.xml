@@ -44,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-01-rdd.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <first_editor relative-caret-position="792">
+                <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -167,7 +167,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563503103581</updated>
-      <workItem from="1563503105006" duration="8235000" />
+      <workItem from="1563503105006" duration="9801000" />
     </task>
     <task id="LOCAL-00001" summary="Update Post">
       <created>1563512421948</created>
@@ -180,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8235000" />
+    <option name="totallyTimeSpent" value="9801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -247,8 +247,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-01-rdd.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <first_editor relative-caret-position="792">
+            <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
